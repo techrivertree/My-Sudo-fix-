@@ -1,0 +1,5 @@
+{
+  "domainRegex": [
+     "\\A(CN=)?[\\S.]+.anonyome.com\\z"
+  ]
+}
